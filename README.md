@@ -9,6 +9,7 @@ The configuration to connection to PostgreSQL in db.js.
 I define the modules in app.js
 
 Most logic and function I implment in controller.js.
+
     get function (GET)      -> check the table exists or not -> no -> create a new table
                             -> get from id
 
