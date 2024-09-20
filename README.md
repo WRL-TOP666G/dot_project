@@ -1,4 +1,4 @@
-- This is Wei-Ru Lin's Backend Assessment Project
+-
 In this project, I use Node.js, Express, and PostgreSQL. 
 The package I use is body-express, cors, dotenv, express, pg, jest, supertest
 
